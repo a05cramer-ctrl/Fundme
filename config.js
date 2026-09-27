@@ -1,1 +1,1 @@
-window.FUNDME_CFG={NAME:"FUNDME",TICKER:"FUNDME",CA:"",CHAIN:"solana",PAD:"pump.fun",PAIR:"",X:"",BUY:"",CHART:"",LAUNCH_URL:"",SPLIT:{donate:90,burn:10},RUN_MINUTES:5};
+window.FUNDME_CFG={NAME:"FUNDME",TICKER:"FUNDME",CA:"AsAcfXMfJZspdKDLr2DG2Bkw2YnhHUysSNLrERBtpump",CHAIN:"solana",PAD:"pump.fun",PAIR:"",X:"https://x.com/fundmepad",BUY:"https://pump.fun/coin/AsAcfXMfJZspdKDLr2DG2Bkw2YnhHUysSNLrERBtpump",CHART:"https://gmgn.ai/sol/token/AsAcfXMfJZspdKDLr2DG2Bkw2YnhHUysSNLrERBtpump",LAUNCH_URL:"",SPLIT:{donate:90,burn:10},RUN_MINUTES:5};
